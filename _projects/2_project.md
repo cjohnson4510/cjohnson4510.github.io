@@ -8,13 +8,13 @@ category: work
 giscus_comments: true
 ---
 R Shiny APP
-https://cjohnson4510.shinyapps.io/salary_app/
+(https://cjohnson4510.shinyapps.io/salary_app/)
 
 YouTube Presentation
-https://www.youtube.com/watch?v=JieCvI_iUCs
+(https://www.youtube.com/watch?v=JieCvI_iUCs)
 
 GitHub Repository With Data Files
-https://github.com/cjohnson4510/CaseStudy2DDS
+(https://github.com/cjohnson4510/CaseStudy2DDS)
 
 
 
