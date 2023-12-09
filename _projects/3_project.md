@@ -3,7 +3,7 @@ layout: page
 title: project 3
 description: a project that redirects to another website
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: https://cjohnson4510.shinyapps.io/salary_app/
 importance: 3
 category: work
 ---
