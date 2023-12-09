@@ -2,7 +2,7 @@
 layout: page
 title: Case Study 2
 description: Analytics Project to find corresponding factors that lead to Attrition and Salary
-img: assets/img/3.jpg
+img: assets/img/AImoney.jpg
 importance: 2
 category: work
 giscus_comments: true
