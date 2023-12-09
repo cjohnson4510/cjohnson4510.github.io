@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: R Shiny Salary App
+description: Redirects to R Shiny App
 img: assets/img/7.jpg
 redirect: https://cjohnson4510.shinyapps.io/salary_app/
 importance: 3
